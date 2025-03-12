@@ -1,5 +1,4 @@
 # Assembly-MIPS
-
 Four MIPS-assembly projects completed during my one year stint at college(Wrocław University of Technology). Completed in 2022.
 
 ## Postfix.asm
